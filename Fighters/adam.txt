@@ -1,0 +1,16 @@
+Adam
+100
+51
+52
+53
+54
+
+Kick
+40
+100
+Type?
+
+Stick Slash
+90
+80
+Type?
